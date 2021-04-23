@@ -1,6 +1,6 @@
 Если у вас есть любые вопросы, не бойтесь задавать их мне или Азату в телеграме: @peltorator и @ismagilovcode. И даже тупые вопросы. В этом нет ничего плохого.
 
-[Таблица результатов](https://docs.google.com/spreadsheets/d/1s5RvVaUTeuSd9yyk_tduheRMNvGUnsJKRt3i_XrHToM/edit?usp=sharing)
+[Таблица результатов](https://docs.google.com/spreadsheets/d/1A8Fnmksnk_1XNDi7NWF6d9PUVuEA60NJl1NgLANrb1k/edit?usp=sharing)
 
 # Setup
 
